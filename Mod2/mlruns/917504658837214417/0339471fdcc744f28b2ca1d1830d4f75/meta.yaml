@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/0339471fdcc744f28b2ca1d1830d4f75/artifacts
+end_time: 1730705187892
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 0339471fdcc744f28b2ca1d1830d4f75
+run_name: clumsy-hog-857
+run_uuid: 0339471fdcc744f28b2ca1d1830d4f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705173499
+status: 3
+tags: []
+user_id: raghav_singhal

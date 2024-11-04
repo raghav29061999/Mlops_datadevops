@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/848217dee62d450da79ea582e6c0e2eb/artifacts
+end_time: 1730705532396
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 848217dee62d450da79ea582e6c0e2eb
+run_name: charming-asp-357
+run_uuid: 848217dee62d450da79ea582e6c0e2eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705518269
+status: 3
+tags: []
+user_id: raghav_singhal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/209cd9ee37bd4129975f1c567fb24746/artifacts
+end_time: 1730704330786
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 209cd9ee37bd4129975f1c567fb24746
+run_name: learned-carp-190
+run_uuid: 209cd9ee37bd4129975f1c567fb24746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704327761
+status: 3
+tags: []
+user_id: raghav_singhal

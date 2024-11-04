@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/694a2bfa380b42cbb51e1dfadfe88f3e/artifacts
+end_time: 1730704293581
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 694a2bfa380b42cbb51e1dfadfe88f3e
+run_name: wistful-fox-204
+run_uuid: 694a2bfa380b42cbb51e1dfadfe88f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704279390
+status: 3
+tags: []
+user_id: raghav_singhal

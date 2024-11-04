@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/1ee54e19cc574ebba904f352ae08f39e/artifacts
+end_time: 1730704332076
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 1ee54e19cc574ebba904f352ae08f39e
+run_name: intrigued-squid-911
+run_uuid: 1ee54e19cc574ebba904f352ae08f39e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704330829
+status: 3
+tags: []
+user_id: raghav_singhal

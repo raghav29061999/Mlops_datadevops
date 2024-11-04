@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/995b9f13941945cd8cda889345483568/artifacts
+end_time: 1730705625496
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 995b9f13941945cd8cda889345483568
+run_name: abundant-cub-173
+run_uuid: 995b9f13941945cd8cda889345483568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705604257
+status: 3
+tags: []
+user_id: raghav_singhal

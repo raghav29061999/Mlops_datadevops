@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/f56fc08a210f485d8a8c431bd93e0822/artifacts
+end_time: 1730704319337
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: f56fc08a210f485d8a8c431bd93e0822
+run_name: carefree-sow-537
+run_uuid: f56fc08a210f485d8a8c431bd93e0822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704313772
+status: 3
+tags: []
+user_id: raghav_singhal

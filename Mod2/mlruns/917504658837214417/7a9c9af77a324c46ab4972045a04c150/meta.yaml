@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/7a9c9af77a324c46ab4972045a04c150/artifacts
+end_time: 1730705244656
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 7a9c9af77a324c46ab4972045a04c150
+run_name: aged-fly-536
+run_uuid: 7a9c9af77a324c46ab4972045a04c150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705227737
+status: 3
+tags: []
+user_id: raghav_singhal

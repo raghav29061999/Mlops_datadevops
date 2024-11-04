@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/e1bf486dd6ba441dbb80c3705a4e2235/artifacts
+end_time: 1730705502592
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: e1bf486dd6ba441dbb80c3705a4e2235
+run_name: delightful-elk-429
+run_uuid: e1bf486dd6ba441dbb80c3705a4e2235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705487197
+status: 3
+tags: []
+user_id: raghav_singhal

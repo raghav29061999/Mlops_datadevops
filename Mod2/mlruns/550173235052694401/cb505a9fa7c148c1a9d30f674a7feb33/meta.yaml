@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/cb505a9fa7c148c1a9d30f674a7feb33/artifacts
+end_time: 1730704312744
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: cb505a9fa7c148c1a9d30f674a7feb33
+run_name: resilient-deer-106
+run_uuid: cb505a9fa7c148c1a9d30f674a7feb33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704293676
+status: 3
+tags: []
+user_id: raghav_singhal

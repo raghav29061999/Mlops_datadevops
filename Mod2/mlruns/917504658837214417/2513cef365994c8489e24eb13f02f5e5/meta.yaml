@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/2513cef365994c8489e24eb13f02f5e5/artifacts
+end_time: 1730705487145
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 2513cef365994c8489e24eb13f02f5e5
+run_name: auspicious-zebra-48
+run_uuid: 2513cef365994c8489e24eb13f02f5e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705468112
+status: 3
+tags: []
+user_id: raghav_singhal

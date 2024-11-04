@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/b827a349d4a84569bc4389a3a0e54c71/artifacts
+end_time: 1730705108699
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: b827a349d4a84569bc4389a3a0e54c71
+run_name: polite-foal-90
+run_uuid: b827a349d4a84569bc4389a3a0e54c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705097546
+status: 4
+tags: []
+user_id: raghav_singhal

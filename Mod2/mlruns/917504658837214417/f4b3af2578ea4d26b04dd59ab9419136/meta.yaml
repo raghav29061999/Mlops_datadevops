@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/f4b3af2578ea4d26b04dd59ab9419136/artifacts
+end_time: 1730705712816
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: f4b3af2578ea4d26b04dd59ab9419136
+run_name: tasteful-colt-521
+run_uuid: f4b3af2578ea4d26b04dd59ab9419136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705687040
+status: 3
+tags: []
+user_id: raghav_singhal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/5a3e507b31494e729252222b55f4e462/artifacts
+end_time: 1730704335846
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 5a3e507b31494e729252222b55f4e462
+run_name: adorable-dog-853
+run_uuid: 5a3e507b31494e729252222b55f4e462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704332123
+status: 3
+tags: []
+user_id: raghav_singhal

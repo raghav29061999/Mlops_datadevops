@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/964c8e114d0740669778c6d32ea597da/artifacts
+end_time: 1730705644518
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 964c8e114d0740669778c6d32ea597da
+run_name: honorable-lamb-469
+run_uuid: 964c8e114d0740669778c6d32ea597da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705625552
+status: 3
+tags: []
+user_id: raghav_singhal

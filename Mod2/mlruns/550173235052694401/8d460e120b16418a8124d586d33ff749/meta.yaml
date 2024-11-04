@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/8d460e120b16418a8124d586d33ff749/artifacts
+end_time: 1730704206664
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 8d460e120b16418a8124d586d33ff749
+run_name: skillful-flea-625
+run_uuid: 8d460e120b16418a8124d586d33ff749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704198353
+status: 4
+tags: []
+user_id: raghav_singhal

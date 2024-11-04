@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/f8960a0769f24a3b80054a4ebc68adc3/artifacts
+end_time: 1730705669103
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: f8960a0769f24a3b80054a4ebc68adc3
+run_name: gentle-snail-174
+run_uuid: f8960a0769f24a3b80054a4ebc68adc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705644545
+status: 3
+tags: []
+user_id: raghav_singhal

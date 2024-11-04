@@ -1,0 +1,6 @@
+Q1 What is the version of MLFLOW? mlflow, version 2.17.1
+Q2 How many files were saved to OUTPUT_FOLDER? - 4
+Q3 What is the value of the min_samples_split parameter? - 2 (min_samples_splitint or float, default=2, from url: "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html")
+Q4 In addition to backend-store-uri, what else do you need to pass to properly configure the server? -- default-artifact-root
+Q5 What's the best validation RMSE that you got? - 5.335419
+Q6 What is the test RMSE of the best model? - 5.567408012462019

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/917504658837214417/320ccff226434a0a9adc422f6c388f79/artifacts
+end_time: 1730705686966
+entry_point_name: ''
+experiment_id: '917504658837214417'
+lifecycle_stage: active
+run_id: 320ccff226434a0a9adc422f6c388f79
+run_name: able-pug-454
+run_uuid: 320ccff226434a0a9adc422f6c388f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730705669166
+status: 3
+tags: []
+user_id: raghav_singhal

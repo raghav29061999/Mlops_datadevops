@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550173235052694401/6bfe524df8fa43eeb2cd3e4d044b9009/artifacts
+end_time: 1730704269897
+entry_point_name: ''
+experiment_id: '550173235052694401'
+lifecycle_stage: active
+run_id: 6bfe524df8fa43eeb2cd3e4d044b9009
+run_name: bouncy-bird-880
+run_uuid: 6bfe524df8fa43eeb2cd3e4d044b9009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730704262059
+status: 3
+tags: []
+user_id: raghav_singhal
